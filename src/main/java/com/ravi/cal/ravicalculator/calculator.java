@@ -1,5 +1,5 @@
 
-    pckage com.ravi.cal.RaviCalculator;
+    package com.ravi.cal.RaviCalculator;
 
 import java.util.Scanner;
 
